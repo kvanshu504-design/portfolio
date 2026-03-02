@@ -25,11 +25,11 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Vanshika Kataria",
+    specialty: "UI & Product Designer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Designer based in Bangalore, India. I specialize in Web and Mobile UI applications, Brand Logo & Identity and Product Design System.",
+    email: "vanshikakataria42@gmail.com",
   },
   experience: [
     {
