@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Vanshika Kataria - UI/UX Designer",
   author: "Alejandro Mb Developerúnez Cuntez",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "UI Designer based in Bangalore with roots in Punjab. I craft intuitive, visually engaging interfaces and Design System.",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -13,11 +13,9 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/vanshika-kataria-24686420b" },
+    { text: "Behance", href: "https://www.behance.net/vanshikakataria" },
+    { text: "Dribbble", href: "https://dribbble.com/vanshikakataria04" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -37,9 +35,10 @@ export const SITE_CONTENT: SiteContent = {
       position: "Designer-1",
       startDate: "Dec 2024 - Current",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "I've been working as a Ui Designer in fintech SaaS company. And creating whole UI flows for Product like Invoice Financing, WPS, Expense Management, etc for users who don't know much about digital products (Drivers, Transporters, Vendors) Designing ideas keeping users ease.",
+        "User-Centric Design: Applied UX research insights to improve user engagement and task success by 15%.",
+        "Interactive Prototyping: Created wireframes and prototypes, speeding up design iterations by 20%.",
+        "Visual Design: Crafted visual systems, consistent visuals that reduced UI inconsistencies by 30%.",
       ],
     },
     {
@@ -48,8 +47,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Nov 2023",
       endDate: "Oct 2024",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Designing Web UI for Clients based Canada mainly that were Birth-Centers Websites and some Very Creative, Modern Apps as well as  Social Media Designs: Developed social media designs, including posters, illustrations and Meta Ads Ads which led to a 50% increase in engagement on LinkedIn and Instagram."
       ],
     },
   projects: [
@@ -58,7 +56,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "The Luxury of UI is a conceptual UI/UX design project for a premium watch marketplace, focused on translating the elegance, exclusivity, and craftsmanship of luxury timepieces into a refined digital experience",
       linkPreview: "/",
       linkSource: "https://www.behance.net/gallery/234799843/The-Luxury-of-UI-Designing-a-Premium-Watch-Marketplace",
-      image: "",
+      image: "/shopify-clon.png",
     },
     {
       name: "Shopp App",
