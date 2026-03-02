@@ -33,7 +33,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       company: "TruKKer Technologies",
       position: "Designer-1",
-      startDate: "Dec 2024 - Current",
+      startDate: "Dec 2024 - ",
+      endDate: "Present",
       summary: [
         "I've been working as a Ui Designer in fintech SaaS company. And creating whole UI flows for Product like Invoice Financing, WPS, Expense Management, etc for users who don't know much about digital products (Drivers, Transporters, Vendors) Designing ideas keeping users ease.",
         "User-Centric Design: Applied UX research insights to improve user engagement and task success by 15%.",
